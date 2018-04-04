@@ -163,6 +163,7 @@ public class CurrentSession {
             System.out.println(response);
         } catch (IOException e) {
             e.printStackTrace();
+
         }
     }
 
