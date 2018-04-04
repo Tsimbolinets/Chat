@@ -1,0 +1,13 @@
+{
+  "msgTxt": "qq",
+  "from": {
+    "login": "admin",
+    "password": "admin",
+    "chatRoom": {
+      "id": 0,
+      "name": "public"
+    }
+  },
+  "to": "admin",
+  "date": "Oct 11, 2017 12:04:11 PM"
+}
